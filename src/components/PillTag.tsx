@@ -1,6 +1,6 @@
 import { MouseEventHandler, ReactNode } from "react";
 
-const PillButton = ({ children, onClick, className }: {children: ReactNode, onClick: MouseEventHandler<HTMLButtonElement>, className: string) => {
+const PillButton = ({ children, onClick, className }: {children: ReactNode, onClick: MouseEventHandler<HTMLButtonElement>, className: string}) => {
     return (
       <button
         onClick={onClick}
