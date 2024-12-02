@@ -11,7 +11,7 @@ export default function AboutPage() {
       </div>
       <div>
         <Heading2>협회원 소개</Heading2>
-        <p>백합진흥연구원 : MACOPOC</p>
+        <p>백합진흥연구원 : 공석</p>
         <p>백합이론탐구원 : 공석</p>
         <p>백합연성생산원 : 공석</p>
         <p>백합창작지원원 : 공석</p>
